@@ -147,19 +147,19 @@ print[predictions]
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image1]()
+![image1](https://github.com/vijay21500269/malaria-cell-recognition/blob/main/D1.png)
 
 ### Classification Report
 
-![image2]()
+![image2](https://github.com/vijay21500269/malaria-cell-recognition/blob/main/D2.png)
 
 ### Confusion Matrix
 
-![image3]()
+![image3](https://github.com/vijay21500269/malaria-cell-recognition/blob/main/D3.png)
 
 ### New Sample Data Prediction
 
-![image4]()
+![image4](https://github.com/vijay21500269/malaria-cell-recognition/blob/main/D4.png)
 
 ## RESULT
 Successfully developed a convolutional deep neural network for Malaria Infected Cell Recognition.
